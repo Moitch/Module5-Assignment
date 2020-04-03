@@ -1,0 +1,60 @@
+/* Changes font of all elements. */
+*{
+  font-family: 'Montserrat', sans-serif;
+
+}
+/* Makes div stick to left side, adds inside padding, changes border, sets maximum width and height,
+centers the text, and aligns the content(image) to the center.
+*/
+
+article{
+  float: left;
+  padding: 20px;
+  border-style: double;
+  border-color: green;
+  height: 750px;
+  width: 750px;
+  text-align: center;
+  align-content: center;
+  display:table-row;
+
+}
+/* Makes the image maximum size it can possibly be. */
+
+img{
+  max-width: 500px;
+  max-height: 500px;
+}
+/* Makes text stick to left side, changes font size and color. */
+
+.superHost {
+  float: left;
+  font-size: 32px;
+  color: red;
+
+
+}
+/* Makes text stick to left side, changes font size and color. */
+
+.specialPrice{
+  float: left;
+
+  font-size: 32px;
+  color: green;
+}
+
+/* Makes text stick to right side, changes font size and color. */
+.availabilityCSS{
+  float: right;
+  font-size: 32px;
+  color: blue;
+}
+
+
+
+#map {
+  width: 100%; /*width of the parent - article element */
+  height: 100%; /*height of the parent - article element */
+  background-color: grey;
+
+}

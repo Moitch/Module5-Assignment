@@ -1,0 +1,52 @@
+{
+  "Properties": [
+    {
+      "name": "Treehouse Getaway",
+      "rating": "4",
+      "price" : 102,
+      "image": "images/treehouse.jpeg",
+      "rooms": 2,
+      "availability": "available",
+      "location": "Barrie, Ontario",
+      "features": "a kitchen, heating, an open balcony",
+      "specialProperty": false,
+      "superHost": false
+    },
+    {
+      "name": "Beachfront Property",
+      "rating": "4 and a half",
+      "price" : 200,
+      "image": "images/beachfront.jpg",
+      "rooms": 4,
+      "availability": "available",
+      "location": "Alcona, Ontario",
+      "features": "a kitchen, a barbeque, an open patio",
+      "specialProperty": false,
+      "superHost": false
+    },
+    {
+      "name": "Log Cabin in the Woods",
+      "rating": "5 star",
+      "price" : 104,
+      "image": "images/logcabin.jpg",
+      "rooms": 3,
+      "availability": "available",
+      "location": "Orillia, Ontario",
+      "features": "a kitchen, heating, an open patio",
+      "specialProperty": true,
+      "superHost": false
+    },
+    {
+      "name": "Alaskan Igloo",
+      "rating": "5 star",
+      "price" : 104,
+      "image": "images/igloo.jpg",
+      "rooms": 1,
+      "availability": "available",
+      "location": "Orillia, Ontario",
+      "features": "a kitchen, heating, an open patio",
+      "specialProperty": false,
+      "superHost": true
+    }]
+
+}
